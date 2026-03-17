@@ -4,6 +4,19 @@ Repositorio con un notebook de trabajo para explorar la construcción de agentes
 
 ---
 
+## 🧠 ¿Cómo funciona el sistema?
+
+Este proyecto implementa un pipeline RAG:
+
+1. 📄 Carga de PDFs
+2. ✂️ División en fragmentos (chunking)
+3. 🔍 Generación de embeddings
+4. ⚡ Almacenamiento en FAISS
+5. 📚 Recuperación de contexto relevante
+6. 🤖 Generación de respuestas con LLM
+
+---
+
 ## 📂 Contenido
 
 ```bash id="r9t8e2"
