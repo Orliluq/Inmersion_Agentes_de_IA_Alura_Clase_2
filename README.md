@@ -85,4 +85,4 @@ MIT
 
 ## ✨ Autor
 
-Construido con curiosidad y disciplina por Orli 🧠⚡
+Construido por Orli 🧠⚡
