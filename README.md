@@ -63,6 +63,12 @@ cd Inmersion_Agentes_de_IA_Alura_Clase_2
 
 ---
 
+## 🔄 Flujo del sistema
+
+Datos → Embeddings → Vector Store → Retrieval → LLM → Respuesta
+
+---
+
 ## ⚠️ Notas
 
 * 🚫 El procesamiento de embeddings puede estar limitado por cuotas del proveedor (ej: errores 429).
@@ -74,3 +80,9 @@ cd Inmersion_Agentes_de_IA_Alura_Clase_2
 ## 📜 Licencia
 
 MIT
+
+---
+
+## ✨ Autor
+
+Construido con curiosidad y disciplina por Orli 🧠⚡
